@@ -1,0 +1,1 @@
+# Automation Records \nThis file was created by n8n.
