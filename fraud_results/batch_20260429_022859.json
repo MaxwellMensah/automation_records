@@ -11,7 +11,7 @@
       "copy_move": false,
       "unet_mask": false,
       "blurred": false,
-      "ocr_sparse": false
+      "ocr_sparse": false 
     },
     "forgery_probability": 0.3372514843940735,
     "unet_coverage_pct": 13.55,
